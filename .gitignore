@@ -1,0 +1,21 @@
+.env
+.env.local
+.env.*.local
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+*.egg-info/
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
+*.swp
+.DS_Store
+trades_state.json
+trades_state.tmp
+# Forward-test shadow logger (Impulse 2.0)
+logs/forward_test.csv
+logs/forward_test_state.json
